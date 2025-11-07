@@ -7,5 +7,3 @@
 - README
 
 ## Setting up
-
-## Testing Github Actions
